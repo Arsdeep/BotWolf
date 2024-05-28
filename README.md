@@ -78,7 +78,7 @@ Please ensure your code adheres to the project's coding standards and includes a
 
 ## Support
 
-If you encounter any issues or have questions, feel free to open an issue on this github repository or contact me directly via [Mail](arsdeepdewangan@gmail.com)
+If you encounter any issues or have questions, feel free to open an issue on this github repository or contact me directly at arsdeepdewangan@gmail.com
 
 ---
 
