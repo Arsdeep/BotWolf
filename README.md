@@ -71,10 +71,6 @@ We welcome contributions to improve BotWolf! Here’s how you can help:
 
 Please ensure your code adheres to the project's coding standards and includes appropriate tests.
 
-## License
-
-BotWolf is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
 ## Acknowledgements
 
 - Thanks to [Google Gemini](https://www.google.com/gemini) for providing the AI capabilities.
