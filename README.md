@@ -1,5 +1,7 @@
 # BotWolf - A Discord Bot Powered by Google's Gemini
 
+## [Invite](https://discord.com/oauth2/authorize?client_id=1128531571712995349&permissions=125952&scope=bot)
+
 ## Introduction
 
 Welcome to BotWolf, a Python-based Discord bot that leverages Google's Gemini for generating intelligent and contextually relevant responses. BotWolf is designed to interact with users in your Discord server, providing engaging and insightful conversations.
@@ -86,4 +88,4 @@ Enjoy using BotWolf in your Discord server! 🚀
 
 ---
 
-*To Add the discord bot in ur Server, Use this link - https://discord.com/oauth2/authorize?client_id=1128531571712995349&permissions=125952&scope=bot*
+*To Add the discord bot in ur Server, Use this link - [Invite](https://discord.com/oauth2/authorize?client_id=1128531571712995349&permissions=125952&scope=bot)*
