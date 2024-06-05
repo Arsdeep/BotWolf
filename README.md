@@ -2,7 +2,18 @@
 
 ## Introduction
 
-Welcome to BotWolf, a Python-based Discord bot that leverages Google's Gemini for generating intelligent and contextually relevant responses. BotWolf is designed to interact with users in your Discord server, providing engaging and insightful conversations.
+### Introducing BotWolf: Your AI-Powered Discord Companion
+
+BotWolf is a cutting-edge Python-based Discord bot that harnesses the power of Google's Gemini to deliver intelligent and engaging responses. Designed to interact with users in your Discord server, BotWolf provides a unique conversational experience that simulates human-like interactions.
+
+### Quirky NLP Capabilities
+BotWolf boasts advanced natural language processing capabilities, allowing users to chat with the bot in a conversational manner. Whether you're looking for information, entertainment, or simply someone to talk to, BotWolf is always ready to engage.
+
+### Image Processing and Summary
+But that's not all. BotWolf can also process images and provide a concise summary of their content. This innovative feature enables users to share images and receive a detailed description, making it an invaluable tool for a wide range of applications.
+Experience the Future of Conversational AI
+
+With BotWolf, you can enjoy a seamless and intuitive conversational experience that blurs the lines between human and AI interactions. Invite BotWolf to your Discord server today and discover a new level of engagement and interaction.
 
 ## Features
 
@@ -58,6 +69,11 @@ BotWolf: I'm online, @You!
 
 User: ~ask What is the capital of France?
 BotWolf: The capital of France is Paris.
+
+User: ~analyze + cat.png
+BotWolf: This is an image of a funny looking brown cat
+
+User: ~img generate a picture of cat in the moon   [Work in Progress]
 ```
 
 ## Contributing
