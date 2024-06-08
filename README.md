@@ -2,6 +2,8 @@
 
 ## [Invite](https://discord.com/oauth2/authorize?client_id=1128531571712995349&permissions=125952&scope=bot)
 
+## [TOP.gg](https://top.gg/bot/1128531571712995349?s=066be2de1be41)
+
 ## Introduction
 
 ### Introducing BotWolf: Your AI-Powered Discord Companion
